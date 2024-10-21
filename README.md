@@ -1,1 +1,1 @@
-#  Génération des embeddings de mots à l’aide de GloVe
+#  Word Embedding Generation using GloVe
