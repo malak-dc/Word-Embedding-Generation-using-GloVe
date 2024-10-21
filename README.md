@@ -1,1 +1,1 @@
-# -G-n-ration-des-embeddings-de-mots-l-aide-de-GloVe
+#  Génération des embeddings de mots à l’aide de GloVe
