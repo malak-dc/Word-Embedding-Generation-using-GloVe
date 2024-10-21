@@ -131,7 +131,6 @@ python src/sentiment_analysis.py --text "Votre texte ici"
 
 ## 👥 Auteurs
 
+- Malak Berri
 - Wiam Terrab
 - Kaoutar Zouguagh
-- Malak Berri
-
