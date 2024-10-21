@@ -93,13 +93,10 @@ python src/sentiment_analysis.py --text "Votre texte ici"
 
 ### 👥 **Auteurs**
 
+- Malak Berri
 - Wiam Terrab
 - Kaoutar Zouguagh
-- Malak Berri
 
----
 
-### 💡 **Contributions**
 
-Les contributions sont les bienvenues ! N'hésitez pas à soumettre vos idées et suggestions.
 
