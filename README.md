@@ -15,33 +15,6 @@ L’analyse des sentiments, l’une des applications principales de ce projet, c
 - **Évaluation des embeddings** : Validation qualitative (proximité sémantique) et quantitative (tâches d'analyse de sentiments).
 - **Application Flask** : Application web pour la prédiction des sentiments dans des textes en Darija.
 
-## ⚙️ Installation
-
-1. **Cloner le dépôt** :
-   ```bash
-   git clone https://github.com/votreutilisateur/darija-embeddings.git
-   cd darija-embeddings
-   ```
-
-2. **Installer les dépendances** :
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Exécuter le scraping et le prétraitement des données** :
-   - Scraping des données :
-     ```bash
-     python src/scrape_data.py
-     ```
-   - Prétraitement des données :
-     ```bash
-     python src/preprocess.py
-     ```
-
-4. **Générer les embeddings avec GloVe** :
-   ```bash
-   python src/glove_model.py
-   ```
 
 ## 📂 Structure du projet
 
